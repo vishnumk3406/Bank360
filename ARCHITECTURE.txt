@@ -1,0 +1,16 @@
+Bank360 architecture
+
+CSV dataset
+    ↓
+Pandas loading / feature engineering
+    ↓
+Customer segmentation + product opportunity rules
+    ↓
+Analytics functions
+    ↓
+Streamlit dashboard
+    ├── KPIs
+    ├── Segment analysis
+    ├── Product penetration
+    ├── Cross-sell opportunities
+    └── Customer profile
