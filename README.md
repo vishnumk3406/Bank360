@@ -68,8 +68,6 @@ Bank360/
     └── banking_customers.csv
 ```
 
-## Interview talking points
-
 ### Problem
 Banks have many customer records, but raw records do not directly show
 which customers may be suitable for deeper engagement.
